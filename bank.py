@@ -4,10 +4,10 @@ import deposite as dsp
 import withdraw as Withd
 import delete as dc
 
-a="1"
+a=input("Enter Password: ")
 print()
 #enter paswords in the list
-l=["1"]
+l=["Enter Sample Passwords"]
 
 
 
